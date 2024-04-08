@@ -1,3 +1,6 @@
 # Natural Language Processing Notes
 
-## Undest
+## Understand NLP
+
+
+
